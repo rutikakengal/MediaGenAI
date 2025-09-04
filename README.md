@@ -26,7 +26,7 @@ Instructions
 
 Clone this repository:
 ```
-git clone <(https://github.com/rutikakengal/MediaGenAI)>
+git clone <https://github.com/rutikakengal/MediaGenAI>
 cd <your-repo-folder>
 ```
 
