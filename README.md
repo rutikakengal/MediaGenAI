@@ -27,7 +27,6 @@ Instructions
 Clone this repository:
 ```
 git clone <https://github.com/rutikakengal/MediaGenAI>
-cd <your-repo-folder>
 ```
 
 Create a virtual environment (optional but recommended):
